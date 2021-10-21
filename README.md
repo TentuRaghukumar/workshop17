@@ -1,2 +1,2 @@
 # workshop17
-Node Js GET, POST. PUT, DELETE Operations
+Node Js GET, POST. PUT, DELETE, OPTIONS
